@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":4,
+  "method":"author_insertKey",
+  "params": [
+    "gran",
+    "blind plug install hair scene profit drill scorpion clock spoon fence aware",
+    "0xe8993b725606b8c1631b900ec25f10b6be8db74dece1a051fd3265cbdd1dee77"
+  ]
+}

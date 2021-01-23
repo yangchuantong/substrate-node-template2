@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":2,
+  "method":"author_insertKey",
+  "params": [
+    "gran",
+    "engine cube pioneer firm thought exhibit carbon dumb exotic pulse noodle ceiling",
+    "0x063f488785f1f63ecaf7dd74cce9b73a91904f3349ecfebb1e1dc0abf8f8b5dd"
+  ]
+}

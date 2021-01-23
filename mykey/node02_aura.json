@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":3,
+  "method":"author_insertKey",
+  "params": [
+    "aura",
+    "blind plug install hair scene profit drill scorpion clock spoon fence aware",
+    "0x66b8a5ed292cdc8c71d7c13818b7e25c3893ce12b8e85ac5ab426a258579d510"
+  ]
+}
